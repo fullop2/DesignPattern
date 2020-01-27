@@ -1,4 +1,4 @@
-package Introduction;
+package Strategy;
 
 public abstract class Duck {
 	FlyBehavior flyBehavior;		// 행동을 정의하는 클래스
